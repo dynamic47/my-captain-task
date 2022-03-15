@@ -1,0 +1,11 @@
+# for list1 this is following code:
+list1 = [12,-7,5,64,-14]
+for num in list1:
+    if num >= 0:
+       print(num, end = " ")
+
+#for list2 this is the following code:
+list2 = [12,14,-95,3]
+for num in list2:
+    if num >= 0:
+       print(num, end = " ")
