@@ -1,0 +1,17 @@
+       
+# sets are define
+A = {0, 2, 4, 6, 8};
+B = {1, 2, 3, 4, 5};
+  
+# union
+print("Union of E and N is :", A | B)
+  
+# intersection
+print("Intersection of E and N is:", A & B)
+  
+# difference
+print("Difference of E and N is :", A - B)
+  
+# symmetric difference
+print("Symmetric difference of E and N is :", A ^ B)
+
